@@ -1,0 +1,8 @@
+class Stringy {
+
+  String ipsum = 'Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Feugiat in ante metus dictum at tempor commodo. Nulla facilisi morbi tempus iaculis urna id volutpat lacus. Integer feugiat scelerisque varius morbi. Dictum fusce ut placerat orci. Odio tempor orci dapibus ultrices. Quisque egestas diam in arcu cursus euismod quis viverra nibh. Nisi lacus sed viverra tellus in hac. Sit amet consectetur adipiscing elit duis tristique sollicitudin nibh. Lorem ipsum dolor sit amet consectetur. Ipsum consequat nisl vel pretium lectus quam id leo. Porttitor lacus luctus accumsan tortor posuere ac ut consequat. Dapibus ultrices in iaculis nunc. Ullamcorper sit amet risus nullam eget felis eget nunc. Eget est lorem ipsum dolor sit amet consectetur. Massa tincidunt nunc pulvinar sapien et ligula ullamcorper. At in tellus integer feugiat scelerisque varius morbi enim nunc. Nulla at volutpat diam ut venenatis tellus in. Mi sit amet mauris commodo quis. Nec nam aliquam sem et tortor consequat id porta.';
+
+  String sceneryUrl = 'https://thumbs.dreamstime.com/b/beautiful-golden-autumn-scenery-trees-golden-leaves-sunshine-scotland-united-kingdom-beautiful-golden-autumn-124278811.jpg';
+
+  String profileImage = 'https://yt3.ggpht.com/ytc/AKedOLSRSl8xsTNuQU_f6sg3bHI19gZYUSqLu2I78S90MQ=s176-c-k-c0x00ffffff-no-rj';
+}
