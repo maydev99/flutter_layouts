@@ -64,8 +64,7 @@ class _MyHomePageState extends State<MyHomePage> {
                         children: [
                           Text(stringy.ipsum,
                           style: const TextStyle(
-                            fontSize: 18,
-                            backgroundColor: Colors.yellowAccent
+                              backgroundColor: Colors.yellowAccent
                           ))
                         ],
                       )),
